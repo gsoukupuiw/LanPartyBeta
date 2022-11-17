@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanPartyBeta", "LanPartyBeta.csproj", "{A127D614-69F5-454B-9C43-E943CA0AAFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A127D614-69F5-454B-9C43-E943CA0AAFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A127D614-69F5-454B-9C43-E943CA0AAFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A127D614-69F5-454B-9C43-E943CA0AAFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A127D614-69F5-454B-9C43-E943CA0AAFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B262FE6-15C5-4343-88BA-5282A8386B50}
+	EndGlobalSection
+EndGlobal
